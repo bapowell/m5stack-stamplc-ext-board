@@ -9,9 +9,8 @@ It's a protoboard-type PCB that includes:
 * I2C breakouts
 * Areas for ad-hoc components
 
-![PCB](M5Stack_StamPLC_Expansion_board_pcb_bare.png)
+![PCB](images/M5Stack_StamPLC_Expansion_board_pcb_bare.png)
 
-![PCB populated](M5Stack_StamPLC_Expansion_board_pcb_populated.png)
+![PCB populated](images/M5Stack_StamPLC_Expansion_board_pcb_populated.png)
 
 ![Schematic](images/M5Stack_StamPLC_Expansion_board_schematic.pdf)
-
